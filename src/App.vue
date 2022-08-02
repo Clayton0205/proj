@@ -22,6 +22,7 @@
   display: flex;
   justify-content: center;
   background-image: linear-gradient(to right,  rgb(5, 52, 93), rgb(182, 13, 74));
+  font-family: Lucida Console;
 }
 
 .link {
@@ -31,6 +32,7 @@
   justify-content: center;
   text-decoration: none;
   color: white;
+  font-size: 30px;
 }
 
 .link:hover {
