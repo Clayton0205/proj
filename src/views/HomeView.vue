@@ -13,10 +13,11 @@
 #page{
     display: flex;
     justify-content: center;
-    background-color: ;
+
 }
 
 #logo{
+    margin: auto;
     width: 800px;
     height: 500px;
 }
