@@ -9,9 +9,9 @@
             </div>
         </div>
     </div>
-    <footer id="footer">
+    <!-- <footer id="footer">
         <p>color: rgb(182, 13, 74);</p>
-    </footer>
+    </footer> -->
 </template>
 
 <style scoped>
@@ -22,10 +22,10 @@
 
 #page {
     width: 100%;
-    height: 728px;
+    height: 750px;
     display: flex;
     justify-content: center;
-    background-image: linear-gradient(to right, rgb(5, 52, 93), rgb(182, 13, 74));
+   background-image: linear-gradient(to left,  rgb(5, 52, 93), rgb(182, 13, 74));
     font-family: Lucida Console;
 }
 
@@ -40,10 +40,10 @@
     color: white;
 }
 
-#footer {
-    background-image: linear-gradient(to right, rgb(5, 52, 93), rgb(182, 13, 74));
+/* #footer {
+  background-image: linear-gradient(to left,  rgb(5, 52, 93), rgb(182, 13, 74));
     color: white;
     text-align: center;
     font-family: Lucida Console;
-}
+} */
 </style>

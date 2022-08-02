@@ -21,7 +21,7 @@
   padding-top: 2px;
   display: flex;
   justify-content: center;
-  background-image: linear-gradient(to right,  rgb(5, 52, 93), rgb(182, 13, 74));
+  background-image: linear-gradient(to left,  rgb(5, 52, 93), rgb(182, 13, 74));
   font-family: Lucida Console;
 }
 
@@ -36,11 +36,12 @@
 }
 
 .link:hover {
-  color: rgb(5, 52, 93);
+  color: rgb(182, 13, 74);
 }
 
 #home:hover{
-color: rgb(182, 13, 74);
+
+color: rgb(5, 52, 93);
 }
 
 #line{
@@ -48,6 +49,6 @@ color: rgb(182, 13, 74);
 }
 
 #about:hover{
-  color: rgb(5, 52, 93);
+  color: rgb(182, 13, 74);
 }
 </style>
